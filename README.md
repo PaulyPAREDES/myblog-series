@@ -7,12 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Programación Web Avanzada 2024 - Grupo PS - Trabajo Práctico N°3  Framework Laravel
+# 🤖Programación Web Avanzada 2024 - Grupo PS - Trabajo Práctico N°3  Framework Laravel
 
-### Integrante
+### 👤Integrante
 
- Paredes Paulina Sarai
- Fai -4345
+ -Paredes Paulina Sarai
+ - Fai -4345
 
 ## Objetivo del proyecto
 
@@ -32,15 +32,15 @@ En caso  de que el administrador desactive un posteo de un colaborador se le qui
 
 Mapeo Objeto Relacional, modelo Vista Controlador, Modelo de datos, Routeo.
 
-##⚙️ Instalación
+## ⚙️Instalación
 
-Clonar el repo y ejecutar  ```php composer install``` 
-Crear un archivo  ```.env``` con variables de entorno .
-Luego de configurar el archivo ```.env``` con las variables locales que tengas para mysql y demas.
-Ejecutar las migraciones de las tablas y los seeders para cargar el contenido default del blog a la base de datos con ```php artisan migrate --seed```.
-Ejecutar ```npm run dev ``` y ```php artisan serve``` para iniciar la aplicacion en modo desarrollo, cada uno en una consola separada.
+1) Clonar el repo y ejecutar  ```php composer install```.
+2) Crear un archivo  ```.env``` con variables de entorno .
+2) Luego de configurar el archivo ```.env``` con las variables locales que tengas para mysql y demas.
+4) Ejecutar las migraciones de las tablas y los seeders para cargar el contenido default del blog a la base de datos con ```php artisan migrate --seed```.
+5) Ejecutar ```npm run dev ``` y ```php artisan serve``` para iniciar la aplicacion en modo desarrollo, cada uno en una consola separada.
 
-## Tecnologias
+## 🚀Tecnologias
  Laravel, PHP, PlantillasBlade, Tailwind, Eloquent
 ## 🖥️ Previsualización
 ![crud](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/7067d7f2-013b-4a96-8ca1-81253f5ffca7)
