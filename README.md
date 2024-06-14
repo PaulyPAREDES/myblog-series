@@ -11,7 +11,7 @@
 
 ### 👤Integrante
 
- -Paredes Paulina Sarai
+ - Paredes Paulina Sarai
  - Fai -4345
 
 ## Objetivo del proyecto
@@ -43,6 +43,6 @@ Mapeo Objeto Relacional, modelo Vista Controlador, Modelo de datos, Routeo.
 ## 🚀Tecnologias
  Laravel, PHP, PlantillasBlade, Tailwind, Eloquent
 ## 🖥️ Previsualización
-![crud](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/7067d7f2-013b-4a96-8ca1-81253f5ffca7)
-![detalle](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/c2f74ed6-e42b-4534-bd59-c096f5bc0710)
 ![home blog](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/f25e4ccd-13a3-4399-ad38-8936ff4799c0)
+![detalle](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/c2f74ed6-e42b-4534-bd59-c096f5bc0710)
+![crud](https://github.com/PaulyPAREDES/myblog-series/assets/86857679/7067d7f2-013b-4a96-8ca1-81253f5ffca7)
