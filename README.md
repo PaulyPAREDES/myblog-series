@@ -7,12 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# 🤖Programación Web Avanzada 2024 - Grupo PS - Trabajo Práctico N°3  Framework Laravel
+# 🤖Programación Web Avanzada 2024 - Trabajo Práctico N°3  Framework Laravel
 
-### 👤Integrante
-
- - Paredes Paulina Sarai
- - Fai -4345
 
 ## Objetivo del proyecto
 
